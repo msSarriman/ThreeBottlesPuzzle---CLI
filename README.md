@@ -13,6 +13,5 @@ Implementation
 --------------------------
 This project implements the classic fill refill of three cups.  
 ![Problem Picture](/Problem.JPG)
-Format: ![Alt Text](https://raw.githubusercontent.com/msSarriman/UniversityProject_ArtificialIntelligence_ThreeBottlesProblem_LISP/master/Problem.JPG)
 
 Detailed info are given at the beginning of program's execution.
