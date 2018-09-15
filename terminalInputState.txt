@@ -1,0 +1,304 @@
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<2>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<2>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<2>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<3>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<1>
+Bottle B has:<4>
+Bottle C has:<2>
+
+Bottle A has:<1>
+Bottle B has:<0>
+Bottle C has:<2>
+
+Bottle A has:<1>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<3>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<0>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<3>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<1>
+Bottle B has:<4>
+Bottle C has:<2>
+
+Bottle A has:<1>
+Bottle B has:<0>
+Bottle C has:<2>
+
+Bottle A has:<1>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<3>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<3>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<0>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<3>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<1>
+Bottle B has:<4>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<2>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<2>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<0>
+Bottle C has:<2>
+
+Bottle A has:<0>
+Bottle B has:<2>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<2>
+Bottle C has:<2>
+
+Bottle A has:<2>
+Bottle B has:<2>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<0>
+Bottle C has:<0>
+
+Bottle A has:<4>
+Bottle B has:<4>
+Bottle C has:<0>
+
+Bottle A has:<7>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
+
+Bottle A has:<0>
+Bottle B has:<1>
+Bottle C has:<0>
