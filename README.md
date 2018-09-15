@@ -11,14 +11,5 @@ Executable file is ../tbp.lisp
  
 Implementation
 --------------------------
-This project implements the classic fill refill of three cups. 
-     7lt  
-  |^^^^^^^^|    			         
-  |--------|                         
-  |--------|     4lt               
-  |--------||^^^^^^^^|            
-  |--------||--------|     2lt    
-  |--------||--------||^^^^^^^^|  
-  |________||________||________|  
-  
+This project implements the classic fill refill of three cups.  
 Detailed info are given at the beginning of program's execution.
